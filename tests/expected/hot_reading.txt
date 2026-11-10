@@ -1,0 +1,5 @@
+2022  20 C read 9.60 wall 9.60
+2024 295 C read 9.94 wall 9.44
+2026 295 C read 9.77 wall 9.28
+rate from raw readings -0.042 mm/yr
+rate after correction  +0.080 mm/yr
